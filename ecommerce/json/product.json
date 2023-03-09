@@ -1,0 +1,30 @@
+[
+    {
+        "p_id": "6404be9ce5a4f",
+        "pname": "product 1",
+        "actprice": "100",
+        "disprice": "50",
+        "imagepath": "img\/img1.jpg"
+    },
+    {
+        "p_id": "6404c55558e39",
+        "pname": "product 2",
+        "actprice": "100",
+        "disprice": "50",
+        "imagepath": "img\/img2.jpg"
+    },
+    {
+        "p_id": "640733d543414",
+        "pname": "product 3",
+        "actprice": "200",
+        "disprice": "150",
+        "imagepath": "img\/img3.jpg"
+    },
+    {
+        "p_id": "640733eb4f684",
+        "pname": "product 4",
+        "actprice": "500",
+        "disprice": "350",
+        "imagepath": "img\/img4.jpg"
+    }
+]
